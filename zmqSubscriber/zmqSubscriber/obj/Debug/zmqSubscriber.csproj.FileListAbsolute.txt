@@ -1,2 +1,3 @@
 c:\users\benjijeen\documents\visual studio 2013\Projects\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
+C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config

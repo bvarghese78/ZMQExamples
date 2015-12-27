@@ -7,3 +7,10 @@ c:\users\benjijeen\documents\visual studio 2013\Projects\ZmqPublisher\ZmqPublish
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\ZmqPublisher\ZmqPublisher\bin\Debug\ZmqPublisher.exe.config
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\ZmqPublisher\ZmqPublisher\obj\Debug\ZmqPublisher.exe
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\ZmqPublisher\ZmqPublisher\obj\Debug\ZmqPublisher.pdb
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\bin\Debug\ZmqPublisher.exe.config
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\obj\Debug\ZmqPublisher.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\obj\Debug\ZmqPublisher.pdb
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\bin\Debug\ZmqPublisher.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\bin\Debug\ZmqPublisher.pdb
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\bin\Debug\NetMQ.dll
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\ZmqPublisher\ZmqPublisher\obj\Debug\ZmqPublisher.csprojResolveAssemblyReference.cache

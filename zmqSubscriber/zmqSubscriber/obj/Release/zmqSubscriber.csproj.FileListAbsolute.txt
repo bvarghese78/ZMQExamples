@@ -1,0 +1,6 @@
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Release\zmqSubscriber.exe.config
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Release\zmqSubscriber.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Release\zmqSubscriber.pdb
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Release\NetMQ.dll
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\obj\Release\zmqSubscriber.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\obj\Release\zmqSubscriber.pdb

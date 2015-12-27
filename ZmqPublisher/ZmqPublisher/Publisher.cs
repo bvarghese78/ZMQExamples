@@ -17,7 +17,7 @@ namespace ZmqPublisher
             {
                 Console.WriteLine("Publisher socket binding...");
                 publisher.Options.SendHighWatermark = 1000;
-                publisher.Bind("tcp://localhost:5556");
+                publisher.Bind("tcp://localhost:11105");
 
                 for (var i = 1; i <= 100; i++)
                 {
@@ -28,7 +28,7 @@ namespace ZmqPublisher
                     else
                         publisher.SendMore("Transport1").Send("From the publisher: " + i);
 
-                    Thread.Sleep(50);
+                    Thread.Sleep(100);
                 }
 
                 Console.ReadLine();
@@ -42,20 +42,21 @@ namespace ZmqPublisher
             {
                 Console.WriteLine("XPublisher socket binding...");
                 publisher.Options.SendHighWatermark = 1000;
-                publisher.Bind("tcp://localhost:5556");
+                publisher.Bind("tcp://localhost:11105");
+                //publisher.Bind("tcp://192.168.216.87:11105");
 
                 for (var i = 1; i <= 100; i++)
                 {
                     Console.WriteLine("XPUB Sending Message: " + i);
                     publisher.SendMore("Transport1").Send("XPublisher: " + i);
-                    Thread.Sleep(50);
+                    Thread.Sleep(100);
                 }
 
                 Console.ReadLine();
             }
         }
 
-        //public async Task Intermediary()
+        //public async Task Intermediary
         //{
         //    Task T1 = new Task();
 

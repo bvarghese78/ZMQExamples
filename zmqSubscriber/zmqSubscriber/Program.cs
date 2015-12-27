@@ -13,9 +13,9 @@ namespace zmqSubscriber
         {
             string topic = "Transport1";
             using (var context = NetMQContext.Create())
-            using (var subscriber = context.CreateSubscriberSocket())
+            using (NetMQSocket subscriber = context.CreateSubscriberSocket())
             {
-                subscriber.Connect("tcp://localhost:5556");
+                subscriber.Connect("tcp://localhost:11105");
                 subscriber.Subscribe(topic);
                 Console.WriteLine("Subscriber socket connecting...");
 
@@ -23,7 +23,7 @@ namespace zmqSubscriber
                 {
                     string messageTopicReceived = subscriber.ReceiveString();
                     string messageReceived = subscriber.ReceiveString();
-                    Console.WriteLine(messageReceived);
+                    Console.WriteLine(messageReceived + ", " + messageTopicReceived);
 
                 }
             }

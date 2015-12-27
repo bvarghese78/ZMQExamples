@@ -1,3 +1,10 @@
 c:\users\benjijeen\documents\visual studio 2013\Projects\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
 C:\Users\BenjiJeen\Documents\GitHub\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe.config
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\zmqSubscriber.pdb
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\bin\Debug\NetMQ.dll
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\obj\Debug\zmqSubscriber.csprojResolveAssemblyReference.cache
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\obj\Debug\zmqSubscriber.exe
+C:\Users\bvarghese\Documents\Visual Studio 2013\Projects\ZMQExamples\zmqSubscriber\zmqSubscriber\obj\Debug\zmqSubscriber.pdb
